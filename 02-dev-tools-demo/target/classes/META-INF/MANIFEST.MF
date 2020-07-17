@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Sergio
+Build-Jdk: 12.0.1
+Implementation-Title: mycoolapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.luv2code.spring.demo
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://spring.io/projects/spring-boot/mycoolapp
+Created-By: Maven Integration for Eclipse
+
